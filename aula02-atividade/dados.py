@@ -1,5 +1,5 @@
 """Leitura dos arquivos CSV do projeto."""
-
+#a
 import csv
 from pathlib import Path
 
